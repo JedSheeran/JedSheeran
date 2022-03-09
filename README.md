@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JedSheeran
+- 👀 I’m interested in learning as much as I can.
+- 🌱 I’m currently learning: Java, C#, & C++.
+- 📫 How to reach me: Jedineville@gmail.com
